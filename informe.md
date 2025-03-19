@@ -64,9 +64,9 @@ Con base en los datos procesados, se formularon las siguientes preguntas de nego
 
 **Respuesta: El género con más apariciones en el dataset es Drama.**
 
-4️⃣ ¿Cuáles son los 5 directores más prolíficos?
+4️⃣ ¿Cuál es la calificación más común entre las películas?
 
-**Respuesta: Los directores con mayor cantidad de películas en la base de datos son: Director A, Director B, Director C, Director D, Director E.**
+**La calificación más frecuente en la base de datos es PG-13, con 226 películas registradas.**
 
 5️⃣ ¿Cuál es el año con más estrenos?
 
