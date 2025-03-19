@@ -64,9 +64,9 @@ Con base en los datos procesados, se formularon las siguientes preguntas de nego
 
 **Respuesta: El género con más apariciones en el dataset es Drama.**
 
-4️⃣ ¿Cuál es la calificación más común entre las películas?
+4️⃣ ¿Cuál es la clasificación más común entre las películas?
 
-**La calificación más frecuente en la base de datos es PG-13, con 226 películas registradas.**
+**La clasificación más frecuente en la base de datos es PG-13, con 226 películas registradas.**
 
 5️⃣ ¿Cuál es el año con más estrenos?
 
