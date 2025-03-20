@@ -1,6 +1,4 @@
 
-
-
 # Proyecto ETL 
 
 Este proyecto implementa una **ETL (Extract, Transform, Load)** en Python para procesar datos de películas desde
